@@ -1,0 +1,243 @@
+{
+  "id": "2026-08-17-010208",
+  "generated_at": "2026-08-16T17:02:08.8436616Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-lan-zhong-duan-yuan-sheng-ai-bian-cheng-zhu-shou-de-she-ji-li-nian-yu-he-xin-jie-zhi",
+      "title": "项目概览：终端原生 AI 编程助手的设计理念与核心价值",
+      "file": "1-xiang-mu-gai-lan-zhong-duan-yuan-sheng-ai-bian-cheng-zhu-shou-de-she-ji-li-nian-yu-he-xin-jie-zhi.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-qi-dong-huan-jing-da-jian-gou-jian-yu-yun-xing-cli",
+      "title": "快速启动：环境搭建、构建与运行 CLI",
+      "file": "2-kuai-su-qi-dong-huan-jing-da-jian-gou-jian-yu-yun-xing-cli.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-dai-ma-ku-jie-gou-dao-lan-mu-lu-zhi-ze-yu-mo-kuai-di-tu",
+      "title": "代码库结构导览：目录职责与模块地图",
+      "file": "3-dai-ma-ku-jie-gou-dao-lan-mu-lu-zhi-ze-yu-mo-kuai-di-tu.md",
+      "section": "Get Started",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-gou-jian-ti-xi-yu-te-xing-men-kong-bun-bian-yi-qi-te-xing-biao-ji-yu-si-dai-ma-xiao-chu",
+      "title": "构建体系与特性门控：Bun 编译期特性标记与死代码消除",
+      "file": "4-gou-jian-ti-xi-yu-te-xing-men-kong-bun-bian-yi-qi-te-xing-biao-ji-yu-si-dai-ma-xiao-chu.md",
+      "section": "Get Started",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "5-qi-dong-yin-dao-liu-cheng-main-tsx-ru-kou-cli-can-shu-jie-xi-yu-qi-dong-xing-neng-you-hua",
+      "title": "启动引导流程：main.tsx 入口、CLI 参数解析与启动性能优化",
+      "file": "5-qi-dong-yin-dao-liu-cheng-main-tsx-ru-kou-cli-can-shu-jie-xi-yu-qi-dong-xing-neng-you-hua.md",
+      "section": "Deep Dive",
+      "group": "核心代理引擎",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-cha-xun-yin-qing-queryengine-hui-hua-bian-pai-xiao-xi-liu-zhuan-yu-zhuang-tai-guan-li",
+      "title": "查询引擎 QueryEngine：会话编排、消息流转与状态管理",
+      "file": "6-cha-xun-yin-qing-queryengine-hui-hua-bian-pai-xiao-xi-liu-zhuan-yu-zhuang-tai-guan-li.md",
+      "section": "Deep Dive",
+      "group": "核心代理引擎",
+      "level": "Advanced"
+    },
+    {
+      "slug": "7-dan-lun-cha-xun-xun-huan-liu-shi-xiang-ying-chu-li-gong-ju-diao-yong-yu-cuo-wu-hui-fu",
+      "title": "单轮查询循环：流式响应处理、工具调用与错误恢复",
+      "file": "7-dan-lun-cha-xun-xun-huan-liu-shi-xiang-ying-chu-li-gong-ju-diao-yong-yu-cuo-wu-hui-fu.md",
+      "section": "Deep Dive",
+      "group": "核心代理引擎",
+      "level": "Advanced"
+    },
+    {
+      "slug": "8-xi-tong-ti-shi-ci-yu-shang-xia-wen-zu-zhuang-claude-md-ji-yi-zhu-ru-yu-mo-xing-pei-zhi",
+      "title": "系统提示词与上下文组装：CLAUDE.md、记忆注入与模型配置",
+      "file": "8-xi-tong-ti-shi-ci-yu-shang-xia-wen-zu-zhuang-claude-md-ji-yi-zhu-ru-yu-mo-xing-pei-zhi.md",
+      "section": "Deep Dive",
+      "group": "核心代理引擎",
+      "level": "Advanced"
+    },
+    {
+      "slug": "9-shang-xia-wen-ya-suo-zi-dong-ya-suo-wei-ya-suo-yu-token-yu-suan-guan-li",
+      "title": "上下文压缩：自动压缩、微压缩与 Token 预算管理",
+      "file": "9-shang-xia-wen-ya-suo-zi-dong-ya-suo-wei-ya-suo-yu-token-yu-suan-guan-li.md",
+      "section": "Deep Dive",
+      "group": "核心代理引擎",
+      "level": "Advanced"
+    },
+    {
+      "slug": "10-tool-jie-kou-qi-yue-shu-ru-xiao-yan-quan-xian-jue-ce-jin-du-hui-diao-yu-ink-ui-xuan-ran",
+      "title": "Tool 接口契约：输入校验、权限决策、进度回调与 Ink UI 渲染",
+      "file": "10-tool-jie-kou-qi-yue-shu-ru-xiao-yan-quan-xian-jue-ce-jin-du-hui-diao-yu-ink-ui-xuan-ran.md",
+      "section": "Deep Dive",
+      "group": "工具系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "11-gong-ju-zhu-ce-biao-nei-zhi-gong-ju-qing-dan-lan-jia-zai-yu-xun-huan-yi-lai-zhi-li",
+      "title": "工具注册表：内置工具清单、懒加载与循环依赖治理",
+      "file": "11-gong-ju-zhu-ce-biao-nei-zhi-gong-ju-qing-dan-lan-jia-zai-yu-xun-huan-yi-lai-zhi-li.md",
+      "section": "Deep Dive",
+      "group": "工具系统",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-gong-ju-zhi-xing-bian-pai-streamingtoolexecutor-bing-fa-kong-zhi-yu-gong-ju-gou-zi",
+      "title": "工具执行编排：StreamingToolExecutor、并发控制与工具钩子",
+      "file": "12-gong-ju-zhi-xing-bian-pai-streamingtoolexecutor-bing-fa-kong-zhi-yu-gong-ju-gou-zi.md",
+      "section": "Deep Dive",
+      "group": "工具系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-shell-gong-ju-shen-du-jie-xi-bash-powershell-zhi-xing-ming-ling-jie-xi-yu-ast-fen-xi",
+      "title": "Shell 工具深度解析：Bash/PowerShell 执行、命令解析与 AST 分析",
+      "file": "13-shell-gong-ju-shen-du-jie-xi-bash-powershell-zhi-xing-ming-ling-jie-xi-yu-ast-fen-xi.md",
+      "section": "Deep Dive",
+      "group": "工具系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-xie-gang-ming-ling-ti-xi-ming-ling-zhu-ce-can-shu-jie-xi-yu-ben-di-jsx-ming-ling-mo-shi",
+      "title": "斜杠命令体系：命令注册、参数解析与本地 JSX 命令模式",
+      "file": "14-xie-gang-ming-ling-ti-xi-ming-ling-zhu-ce-can-shu-jie-xi-yu-ben-di-jsx-ming-ling-mo-shi.md",
+      "section": "Deep Dive",
+      "group": "命令与交互",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-ink-xuan-ran-yin-qing-zi-yan-fen-zhi-react-reconciler-yoga-bu-ju-yu-zhong-duan-zhuan-yi-xu-lie-jie-xi",
+      "title": "Ink 渲染引擎（自研分支）：React Reconciler、Yoga 布局与终端转义序列解析",
+      "file": "15-ink-xuan-ran-yin-qing-zi-yan-fen-zhi-react-reconciler-yoga-bu-ju-yu-zhong-duan-zhuan-yi-xu-lie-jie-xi.md",
+      "section": "Deep Dive",
+      "group": "终端 UI 渲染",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-zu-jian-ti-xi-yu-she-ji-xi-tong-xiao-xi-xuan-ran-quan-xian-dui-hua-kuang-diff-shi-tu-yu-zhu-ti",
+      "title": "组件体系与设计系统：消息渲染、权限对话框、Diff 视图与主题",
+      "file": "16-zu-jian-ti-xi-yu-she-ji-xi-tong-xiao-xi-xuan-ran-quan-xian-dui-hua-kuang-diff-shi-tu-yu-zhu-ti.md",
+      "section": "Deep Dive",
+      "group": "终端 UI 渲染",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "17-ying-yong-zhuang-tai-guan-li-appstate-store-selectors-yu-react-context",
+      "title": "应用状态管理：AppState Store、Selectors 与 React Context",
+      "file": "17-ying-yong-zhuang-tai-guan-li-appstate-store-selectors-yu-react-context.md",
+      "section": "Deep Dive",
+      "group": "终端 UI 渲染",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "18-jian-wei-bang-ding-yu-vim-mo-shi-ke-pei-zhi-kuai-jie-jian-yu-wen-ben-shu-ru-zhuang-tai-ji",
+      "title": "键位绑定与 Vim 模式：可配置快捷键与文本输入状态机",
+      "file": "18-jian-wei-bang-ding-yu-vim-mo-shi-ke-pei-zhi-kuai-jie-jian-yu-wen-ben-shu-ru-zhuang-tai-ji.md",
+      "section": "Deep Dive",
+      "group": "终端 UI 渲染",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-quan-xian-mo-xing-mo-shi-qie-huan-gui-ze-jie-xi-bash-fen-lei-qi-yu-zi-dong-mo-shi",
+      "title": "权限模型：模式切换、规则解析、Bash 分类器与自动模式",
+      "file": "19-quan-xian-mo-xing-mo-shi-qie-huan-gui-ze-jie-xi-bash-fen-lei-qi-yu-zi-dong-mo-shi.md",
+      "section": "Deep Dive",
+      "group": "权限与安全",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-ming-ling-an-quan-fen-xi-wei-xian-ming-ling-jian-ce-zhi-du-xiao-yan-sha-xiang-yu-lu-jing-bao-hu",
+      "title": "命令安全分析：危险命令检测、只读校验、沙箱与路径保护",
+      "file": "20-ming-ling-an-quan-fen-xi-wei-xian-ming-ling-jian-ce-zhi-du-xiao-yan-sha-xiang-yu-lu-jing-bao-hu.md",
+      "section": "Deep Dive",
+      "group": "权限与安全",
+      "level": "Advanced"
+    },
+    {
+      "slug": "21-mcp-ke-hu-duan-ji-cheng-lian-jie-guan-li-chuan-shu-ceng-oauth-ren-zheng-yu-elicitation",
+      "title": "MCP 客户端集成：连接管理、传输层、OAuth 认证与 Elicitation",
+      "file": "21-mcp-ke-hu-duan-ji-cheng-lian-jie-guan-li-chuan-shu-ceng-oauth-ren-zheng-yu-elicitation.md",
+      "section": "Deep Dive",
+      "group": "扩展生态",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-cha-jian-xi-tong-jia-zai-qi-shi-chang-guan-li-an-zhuang-xiao-yan-yu-sheng-ming-zhou-qi",
+      "title": "插件系统：加载器、市场管理、安装校验与生命周期",
+      "file": "22-cha-jian-xi-tong-jia-zai-qi-shi-chang-guan-li-an-zhuang-xiao-yan-yu-sheng-ming-zhou-qi.md",
+      "section": "Deep Dive",
+      "group": "扩展生态",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-skills-ji-neng-ti-xi-nei-zhi-ji-neng-mu-lu-jia-zai-yu-ji-neng-gong-ju-hua",
+      "title": "Skills 技能体系：内置技能、目录加载与技能工具化",
+      "file": "23-skills-ji-neng-ti-xi-nei-zhi-ji-neng-mu-lu-jia-zai-yu-ji-neng-gong-ju-hua.md",
+      "section": "Deep Dive",
+      "group": "扩展生态",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-hooks-sheng-ming-zhou-qi-gou-zi-pei-zhi-mo-shi-shi-jian-zhu-ce-yu-http-agent-prompt-zhi-xing-qi",
+      "title": "Hooks 生命周期钩子：配置模式、事件注册与 HTTP/Agent/Prompt 执行器",
+      "file": "24-hooks-sheng-ming-zhou-qi-gou-zi-pei-zhi-mo-shi-shi-jian-zhu-ce-yu-http-agent-prompt-zhi-xing-qi.md",
+      "section": "Deep Dive",
+      "group": "扩展生态",
+      "level": "Advanced"
+    },
+    {
+      "slug": "25-zi-dai-li-yu-hou-tai-ren-wu-kuang-jia-agenttool-localagenttask-yu-ren-wu-zhuang-tai-jian-kong",
+      "title": "子代理与后台任务框架：AgentTool、LocalAgentTask 与任务状态监控",
+      "file": "25-zi-dai-li-yu-hou-tai-ren-wu-kuang-jia-agenttool-localagenttask-yu-ren-wu-zhuang-tai-jian-kong.md",
+      "section": "Deep Dive",
+      "group": "多智能体与记忆",
+      "level": "Advanced"
+    },
+    {
+      "slug": "26-swarm-tuan-dui-xie-zuo-jin-cheng-nei-teammate-xiao-xi-you-xiang-yu-quan-xian-tong-bu",
+      "title": "Swarm 团队协作：进程内 Teammate、消息邮箱与权限同步",
+      "file": "26-swarm-tuan-dui-xie-zuo-jin-cheng-nei-teammate-xiao-xi-you-xiang-yu-quan-xian-tong-bu.md",
+      "section": "Deep Dive",
+      "group": "多智能体与记忆",
+      "level": "Advanced"
+    },
+    {
+      "slug": "27-ji-yi-xi-tong-memdir-ji-yi-sao-miao-xiang-guan-xing-jian-suo-tuan-dui-ji-yi-tong-bu-yu-zi-dong-gu-hua",
+      "title": "记忆系统：memdir 记忆扫描、相关性检索、团队记忆同步与自动固化",
+      "file": "27-ji-yi-xi-tong-memdir-ji-yi-sao-miao-xiang-guan-xing-jian-suo-tuan-dui-ji-yi-tong-bu-yu-zi-dong-gu-hua.md",
+      "section": "Deep Dive",
+      "group": "多智能体与记忆",
+      "level": "Advanced"
+    },
+    {
+      "slug": "28-yuan-cheng-kong-zhi-jia-gou-repl-bridge-yuan-cheng-hui-hua-guan-li-yu-zhi-lian-fu-wu-qi",
+      "title": "远程控制架构：REPL Bridge、远程会话管理与直连服务器",
+      "file": "28-yuan-cheng-kong-zhi-jia-gou-repl-bridge-yuan-cheng-hui-hua-guan-li-yu-zhi-lian-fu-wu-qi.md",
+      "section": "Deep Dive",
+      "group": "远程能力与平台服务",
+      "level": "Advanced"
+    },
+    {
+      "slug": "29-api-ceng-yu-mo-xing-guan-li-anthropic-ke-hu-duan-duo-gong-ying-shang-zhi-chi-yu-oauth-ren-zheng",
+      "title": "API 层与模型管理：Anthropic 客户端、多供应商支持与 OAuth 认证",
+      "file": "29-api-ceng-yu-mo-xing-guan-li-anthropic-ke-hu-duan-duo-gong-ying-shang-zhi-chi-yu-oauth-ren-zheng.md",
+      "section": "Deep Dive",
+      "group": "远程能力与平台服务",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "30-pei-zhi-yu-ke-guan-ce-xing-she-zhi-ti-xi-tuo-guan-ce-lue-shu-ju-qian-yi-yu-yao-ce-fen-xi",
+      "title": "配置与可观测性：设置体系、托管策略、数据迁移与遥测分析",
+      "file": "30-pei-zhi-yu-ke-guan-ce-xing-she-zhi-ti-xi-tuo-guan-ce-lue-shu-ju-qian-yi-yu-yao-ce-fen-xi.md",
+      "section": "Deep Dive",
+      "group": "远程能力与平台服务",
+      "level": "Intermediate"
+    }
+  ]
+}
